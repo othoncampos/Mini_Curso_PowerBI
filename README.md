@@ -13,6 +13,9 @@ Este projeto é uma introdução prática ao Power BI, destinado a estudantes e 
 - Configuração e otimização de gráficos.
 - Criação de novas colunas e medidas para análise avançada.
 
+### Dashboards de exemplo
+- Na pasta [dashboards](dashboards) estão os arquvios de exemplo utilizado da aula.
+
 ### Links dos Dados Abertos
 Aqui estão os links para os conjuntos de dados utilizados nos exemplos e exercícios:
 
