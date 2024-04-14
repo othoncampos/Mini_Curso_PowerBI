@@ -17,7 +17,7 @@ Este projeto é uma introdução prática ao Power BI, destinado a estudantes e 
 Aqui estão os links para os conjuntos de dados utilizados nos exemplos e exercícios:
 
 **Dados de exemplo: Fatura de cartão de crédito**
-- Na pasta [arquivos/dados_cartao](arquivos/dados_cartao) está um arquivo exemplificando a fatura de um cartão de crédito. Esse arquivo foi utilizado como exemplo para construcao do dashboard: DashBoard_Gastos_Cartao
+- Na pasta [arquivos/dados_cartao](arquivos/dados_cartao) está um arquivo exemplificando a fatura de um cartão de crédito. Esse arquivo foi utilizado como exemplo para construcao do dashboard: [DashBoard_Gastos_Cartao](dashboards/DashBoard_Gastos_Cartao.pbix)
 
 **Dados Climaticos - INMET : Instituto Nacional de Metereologia **
 - [Site para obter dados climáticos](https://mapas.inmet.gov.br/)
