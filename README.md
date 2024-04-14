@@ -16,6 +16,10 @@ Este projeto é uma introdução prática ao Power BI, destinado a estudantes e 
 ### Links dos Dados Abertos
 Aqui estão os links para os conjuntos de dados utilizados nos exemplos e exercícios:
 
+**Dados Climaticos:**
+- [Site para obetr dados climáticos](https://mapas.inmet.gov.br/)
+- Na pasta "arquivos/dados_climaticos" estão alguns arquivos da estacao metereologica de Jeremoabo.
+
 **Geração Distribuída – Relação de Empreendimentos:**
 - [PDF Relação de Empreendimentos](https://dadosabertos.aneel.gov.br/dataset/5e0fafd2-21b9-4d5b-b622-40438d40aba2/resource/3fabb9e8-668a-4f94-8f0e-ed9cd2682979/download/dm-geracao-distribuida-relacao-de-empreendimentos.pdf)
 - [CSV Relação de Empreendimentos](https://dadosabertos.aneel.gov.br/dataset/5e0fafd2-21b9-4d5b-b622-40438d40aba2/resource/b1bd71e7-d0ad-4214-9053-cbd58e9564a7/download/empreendimento-geracao-distribuida.csv)
